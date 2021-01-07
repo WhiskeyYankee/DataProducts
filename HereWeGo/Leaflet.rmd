@@ -1,0 +1,12 @@
+---
+title: "World Map"
+output: html_document
+---
+
+```{r,warning=FALSE,echo=FALSE}
+library(leaflet)
+leaflet() %>%
+  addTiles()
+```
+
+

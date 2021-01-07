@@ -8,5 +8,3 @@ library(leaflet)
 leaflet() %>%
   addTiles()
 ```
-
-

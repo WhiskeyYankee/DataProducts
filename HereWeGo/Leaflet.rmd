@@ -3,6 +3,9 @@ title: "Statue Of Liberty"
 output: html_document
 ---
 
+# Data Products Week 2 Project
+## Whiskey Yankee
+## January 11th, 2021
 ```{r,warning=FALSE,echo=FALSE}
 library(leaflet)
 content <- paste(sep = "<br/>",
